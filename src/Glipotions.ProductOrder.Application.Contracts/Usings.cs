@@ -1,0 +1,12 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using Microsoft.Extensions.Localization;
+global using Volo.Abp.Application.Dtos;
+global using FluentValidation;
+global using Glipotions.ProductOrder.CommonDtos;
+global using Glipotions.ProductOrder.Consts;
+global using Glipotions.ProductOrder.AlinanSiparisler;
+global using Glipotions.ProductOrder.AlinanSiparisHareketler;
+global using Glipotions.ProductOrder.Localization;
+global using Glipotions.ProductOrder.Services;
+global using Glipotions.ProductOrder.Enums;
